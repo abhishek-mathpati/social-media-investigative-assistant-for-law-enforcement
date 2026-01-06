@@ -81,20 +81,20 @@ Screenshots included in this repository:
 - Are provided strictly for demonstration and documentation purposes
 
 ### Authentication & Navigation
-![Login Page](docs/screenshots/login-page.jpeg)
-![Home Page](docs/screenshots/home-page.jpeg)
+![Login Page](docs/screenshot/login-page.jpeg)
+![Home Page](docs/screenshot/home-page.jpeg)
 
 ### Investigation Workflow
-![Automation Page](docs/screenshots/automation-page.jpeg)
-![Capture Page](docs/screenshots/capture-page.jpeg)
+![Automation Page](docs/screenshot/automation-page.jpeg)
+![Capture Page](docs/screenshot/capture-page.jpeg)
 
 ### Evidence & Reports
-![PDF Generated](docs/screenshots/pdf-generated.jpeg)
-![PDF View](docs/screenshots/pdf-view.jpeg)
+![PDF Generated](docs/screenshot/pdf-generated.jpeg)
+![PDF View](docs/screenshot/pdf-view.jpeg)
 
 ### Case Management
-![Reports Page](docs/screenshots/reports-page.jpeg)
-![File Storage](docs/screenshots/file-storage.jpeg)
+![Reports Page](docs/screenshot/reports-page.jpeg)
+![File Storage](docs/screenshot/file-storage.jpeg)
 
 ---
 
