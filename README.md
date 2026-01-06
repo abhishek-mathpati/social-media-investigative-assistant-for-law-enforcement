@@ -75,26 +75,46 @@ Requests should include appropriate context and justification.
 
 ## 📸 Screenshots
 
-Screenshots included in this repository:
-- Below are selected screenshots illustrating the primary workflows of the application.
-- All sensitive or identifying information has been blurred for privacy.
-- Are provided strictly for demonstration and documentation purposes
+Below are selected screenshots illustrating the primary workflows of the application.  
+All sensitive or identifying information has been blurred for privacy.
 
-### Authentication & Navigation
-![Login Page](docs/screenshot/login-page.jpeg)
-![Home Page](docs/screenshot/home-page.jpeg)
+<div align="center">
+    <a href="docs/screenshot/login-page.jpeg" target="_blank" rel="noreferrer">
+        <img src="docs/screenshot/login-page.jpeg" alt="Login Page" width="15%" style="margin: 10px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="docs/screenshot/home-page.jpeg" target="_blank" rel="noreferrer">
+        <img src="docs/screenshot/home-page.jpeg" alt="Home Page" width="15%" style="margin: 10px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="docs/screenshot/automation-page.jpeg" target="_blank" rel="noreferrer">
+        <img src="docs/screenshot/automation-page.jpeg" alt="Automation Page" width="15%" style="margin: 10px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="docs/screenshot/capture-page.jpeg" target="_blank" rel="noreferrer">
+        <img src="docs/screenshot/capture-page.jpeg" alt="Capture Page" width="15%" style="margin: 10px;" />
+    </a>
+</div>
 
-### Investigation Workflow
-![Automation Page](docs/screenshot/automation-page.jpeg)
-![Capture Page](docs/screenshot/capture-page.jpeg)
+<br>
 
-### Evidence & Reports
-![PDF Generated](docs/screenshot/pdf-generated.jpeg)
-![PDF View](docs/screenshot/pdf-view.jpeg)
-
-### Case Management
-![Reports Page](docs/screenshot/reports-page.jpeg)
-![File Storage](docs/screenshot/file-storage.jpeg)
+<div align="center">
+    <a href="docs/screenshot/pdf-generated.jpeg" target="_blank" rel="noreferrer">
+        <img src="docs/screenshot/pdf-generated.jpeg" alt="PDF Generated" width="15%" style="margin: 10px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="docs/screenshot/pdf-view.jpeg" target="_blank" rel="noreferrer">
+        <img src="docs/screenshot/pdf-view.jpeg" alt="PDF View" width="15%" style="margin: 10px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="docs/screenshot/reports-page.jpeg" target="_blank" rel="noreferrer">
+        <img src="docs/screenshot/reports-page.jpeg" alt="Reports Page" width="15%" style="margin: 10px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="docs/screenshot/file-storage.jpeg" target="_blank" rel="noreferrer">
+        <img src="docs/screenshot/file-storage.jpeg" alt="File Storage" width="15%" style="margin: 10px;" />
+    </a>
+</div>
 
 ---
 
