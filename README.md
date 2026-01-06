@@ -12,6 +12,19 @@ The system focuses on **visual evidence documentation** rather than raw data ext
 The current implementation is focused on **Instagram**, with an architecture designed for future extensibility.
 
 ---
+## Table of Contents
+1. [Overview](#overview)
+2. [Motivation](#motivation)
+3. [Key Features](#-key-features)
+4. [Platform Scope](#platform-scope)
+5. [Demonstration & Evaluation](#demonstration--evaluation)
+6. [Security & Compliance Considerations](#security--compliance-considerations)
+7. [Screenshots](#-screenshots)
+8. [Future Scope](#future-scope)
+9. [Disclaimer](#disclaimer)
+10. [License](#license)
+
+---
 
 ## 🎯 Motivation
 
@@ -40,6 +53,15 @@ SMIA addresses these limitations by introducing a **structured, mobile-assisted 
 
 ---
 
+## 🛠️ Technologies Used
+
+- <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="20" height="20"/> </a> **Flutter:** – Cross-platform mobile application framework  
+
+- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="20" height="20"/> </a> **Firebase:** – Authentication, metadata storage
+- **Android Native** (Kotlin) for automation and screenshot capture
+- **WebView** (InAppWebView) for assisted social media navigation
+
+---
 ## 📱 Platform Scope
 
 - **Current implementation focus:** Instagram  
@@ -74,45 +96,69 @@ Requests should include appropriate context and justification.
 ---
 
 ## 📸 Screenshots
-
-Below are selected screenshots illustrating the primary workflows of the application.  
-All sensitive or identifying information has been blurred for privacy.
+- Below are selected screenshots illustrating the primary workflows of the application.  
+- All sensitive or identifying information has been blurred for privacy.
+- Are provided for **demonstration purposes only**
 
 <div align="center">
     <a href="docs/screenshot/login-page.jpeg" target="_blank" rel="noreferrer">
-        <img src="docs/screenshot/login-page.jpeg" alt="Login Page" width="15%" style="margin: 10px;" />
+        <img src="docs/screenshot/login-page.jpeg" alt="Login Page" width="20%" style="margin: 10px;" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="docs/screenshot/home-page.jpeg" target="_blank" rel="noreferrer">
-        <img src="docs/screenshot/home-page.jpeg" alt="Home Page" width="15%" style="margin: 10px;" />
+        <img src="docs/screenshot/home-page.jpeg" alt="Home Page" width="20%" style="margin: 10px;" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="docs/screenshot/automation-page.jpeg" target="_blank" rel="noreferrer">
-        <img src="docs/screenshot/automation-page.jpeg" alt="Automation Page" width="15%" style="margin: 10px;" />
-    </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="docs/screenshot/capture-page.jpeg" target="_blank" rel="noreferrer">
-        <img src="docs/screenshot/capture-page.jpeg" alt="Capture Page" width="15%" style="margin: 10px;" />
+        <img src="docs/screenshot/capture-page.jpeg" alt="Capture Page" width="20%" style="margin: 10px;" />
     </a>
 </div>
 
 <br>
 
 <div align="center">
+    <a href="docs/screenshot/capture-page-2.jpeg" target="_blank" rel="noreferrer">
+        <img src="docs/screenshot/capture-page-2.jpeg" alt="Capture Page Continued" width="20%" style="margin: 10px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="docs/screenshot/automation-page.jpeg" target="_blank" rel="noreferrer">
+        <img src="docs/screenshot/automation-page.jpeg" alt="Automation Page" width="20%" style="margin: 10px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="docs/screenshot/pdf-generated.jpeg" target="_blank" rel="noreferrer">
-        <img src="docs/screenshot/pdf-generated.jpeg" alt="PDF Generated" width="15%" style="margin: 10px;" />
+        <img src="docs/screenshot/pdf-generated.jpeg" alt="PDF Generated" width="20%" style="margin: 10px;" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<br>
+
+<div align="center">
     <a href="docs/screenshot/pdf-view.jpeg" target="_blank" rel="noreferrer">
-        <img src="docs/screenshot/pdf-view.jpeg" alt="PDF View" width="15%" style="margin: 10px;" />
+        <img src="docs/screenshot/pdf-view.jpeg" alt="PDF View" width="20%" style="margin: 10px;" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="docs/screenshot/reports-page.jpeg" target="_blank" rel="noreferrer">
-        <img src="docs/screenshot/reports-page.jpeg" alt="Reports Page" width="15%" style="margin: 10px;" />
+        <img src="docs/screenshot/reports-page.jpeg" alt="Reports Page" width="20%" style="margin: 10px;" />
     </a>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="docs/screenshot/file-storage.jpeg" target="_blank" rel="noreferrer">
-        <img src="docs/screenshot/file-storage.jpeg" alt="File Storage" width="15%" style="margin: 10px;" />
+        <img src="docs/screenshot/file-storage.jpeg" alt="File Storage" width="20%" style="margin: 10px;" />
+    </a>
+</div>
+
+<br>
+
+<div align="center">
+    <a href="docs/screenshot/profile-page.jpeg" target="_blank" rel="noreferrer">
+        <img src="docs/screenshot/profile-page.jpeg" alt="Profile Page" width="20%" style="margin: 10px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="docs/screenshot/edit-profile.jpeg" target="_blank" rel="noreferrer">
+        <img src="docs/screenshot/edit-profile.jpeg" alt="Edit Profile" width="20%" style="margin: 10px;" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="docs/screenshot/settings-page.jpeg" target="_blank" rel="noreferrer">
+        <img src="docs/screenshot/settings-page.jpeg" alt="Settings Page" width="20%" style="margin: 10px;" />
     </a>
 </div>
 
@@ -137,3 +183,7 @@ Please review the [DISCLAIMER.md](DISCLAIMER.md) file carefully before using or 
 ## 📜 License
 
 This project is licensed under the **MIT License**.
+---
+## 📩 Contact
+
+For authorised evaluation or demonstration requests, please contact the repository maintainer.
